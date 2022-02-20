@@ -26,5 +26,5 @@ resource "azurerm_resource_group" "ancillaryservices" {
     location = "UK South"
 }
 
- 
+
 
